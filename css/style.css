@@ -33,7 +33,7 @@ body {
 }
 
 body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Century Gothic', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -83,7 +83,7 @@ h5 {
 }
 
 blockquote {
-    font-family: Georgia, serif;
+    font-family: 'Trebuchet', serif;
 }
 
 blockquote.bigquote {
@@ -427,11 +427,11 @@ section.section {
 ============================= */
 
 #parallax1 {
-    background-image: url(../img/parallax/img1.jpg);
+    background-image: url(../img/parallax/chess.jpg);
 }
 
 #parallax2 {
-    background-image: url(../img/parallax/img2.jpg);
+    background-image: url(../img/parallax/chicago.jpg);
 }
 
 #testimonials {
@@ -705,6 +705,7 @@ About
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
+    box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
 }
 
 .team-detail h4 {
@@ -848,7 +849,7 @@ nav#filter a {
 .testimonial h5 {
     color: #fff;
     font-size: 18px;
-    font-family: Georgia, sans-serif;
+    font-family: 'Century Gothic', sans-serif;
     line-height: 1.5em;
 }
 
