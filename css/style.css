@@ -33,7 +33,7 @@ body {
 }
 
 body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: 'Century Gothic', sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -83,7 +83,7 @@ h5 {
 }
 
 blockquote {
-    font-family: 'Trebuchet', serif;
+    font-family: Georgia, serif;
 }
 
 blockquote.bigquote {
@@ -545,10 +545,6 @@ section.featured.inner {
     padding: 150px 0 50px;
 }
 
-section .splash {
-    margin-top: 12vh;
-}
-
 /* --- Flexslider --- */
 .flexslider {
     margin: 0;
@@ -705,7 +701,7 @@ About
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
-    box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -webkit-box-shadow: 4px 4px 5px 0px rgba(0, 0, 0, 0.7);
 }
 
 .team-detail h4 {
@@ -849,7 +845,7 @@ nav#filter a {
 .testimonial h5 {
     color: #fff;
     font-size: 18px;
-    font-family: 'Century Gothic', sans-serif;
+    font-family: Georgia, sans-serif;
     line-height: 1.5em;
 }
 
@@ -1208,7 +1204,7 @@ Media queries
     }
 
     section.featured {
-        padding-top: 80px;
+        padding-top: 130px;
     }
 
     .team-member, .col-lg-4 {
