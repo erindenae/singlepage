@@ -1,0 +1,49 @@
+.classpath
+.DS_Store
+.svn
+*.ser
+.project
+.settings
+.ruby-version
+Thumbs.db
+/bin
+/build
+/target
+*.class
+/logs
+.grails
+.pydevproject
+NCVCustomerTestDrive_*txt
+/target-eclipse
+README.html
+*.db
+
+/web-app/coverage
+# /web-app/WEB-INF/
+/web-app/WEB-INF/classes
+/web-app/WEB-INF/grails-app
+run_dev.sh
+.sass-cache
+/web-app/css/sass/
+# ignore non-built JS files
+/web-app/js
+/web-app/coverage
+/node_modules
+/web-app/503.html
+
+*-s[0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f].png
+web-app/images/2014/toughlove/temp
+web-app/images/delivery
+*.pyc
+~*.xlsx
+
+# NPM errors/log
+npm-debug.log
+npm-debug.log.*
+
+# image upload temp directory for Tough Guys (Tough Love 2.0)
+/tmp
+
+# Sassdoc, JSDoc, DockerJS
+/web-app/__docs
+/web-app/jsdocs
